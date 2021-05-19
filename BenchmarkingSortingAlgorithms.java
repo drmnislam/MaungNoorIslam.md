@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Ye Min Tun
+ * @author Maung Noor Islam 
  */
 import java.util.*;
 public class BenchmarkingSortingAlgorithms {
@@ -74,10 +74,7 @@ public class BenchmarkingSortingAlgorithms {
 		int temp = A[maxLoc]; // Swap largest item with A[lastPlace].
 		A[maxLoc] = A[lastPlace];
 		A[lastPlace] = temp;
-		} // end of for loop
-				
-	
+		} // end of for loop			
 
-    }
-    
+    }  
 }
